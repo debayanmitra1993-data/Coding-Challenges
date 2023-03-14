@@ -1,5 +1,8 @@
 # Given an array, return the maximum weighted sum that can be obtained by rotating the array 
 
+# Time = O(n)
+# Space = O(1)
+
 def maxweighedsumarrshift(array):
   arrsum = 0
   weightedsum = 0
